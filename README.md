@@ -24,10 +24,17 @@ I want this boat to be [USCA C-1](c1.md) and [solo unlimited](solo-unlimited.md)
 
 Building with a composite consists of adding a *resin* to a *fiber* matrix. The fibers provide the tensile strength, while the hard resin provides rigidity and shape.
 
-| Fiber | Cost [per ft^2]| Supplier |
-| :-- | :-: | :-: |
-| carbon | | |
-| kevlar | | |
+### Composite Fiber Fabric
+
+| Fiber | Tow | wt [oz] | Cost [50" x yard]| Supplier |
+| :-- | :-: | :-: | :-: | :-: |
+| carbon | 3k 2x2 | 6 | ~$34 | [composite envisions](https://compositeenvisions.com/commercial-grade-carbon-fiber-fabric-2x2-twill-3k-6oz-203-43gsm/) |
+| carbon | 12k 2x2 | | ~$45 | [rock west](https://www.rockwestcomposites.com/shop/materials-tools/fabrics-prepregs-tow/dry-fabric/13005-d-group) |
+| kevlar | 1140d | 5.3 | ~$40 | [rock west](https://www.rockwestcomposites.com/shop/materials-tools/fabrics-prepregs-tow/dry-fabric/13026-d-group) |
+| carvlar | 3k 2x2 | 5.5 | ~$34 | [composite envisions](https://compositeenvisions.com/carvlar-carbon-fiber-black-kevlar-fabric-2x2-twill-3k-50-127cm-5-5oz-186gsm/) |
+| tan carvlar | 3k | 5.5 | $37 | [composite envisions](https://compositeenvisions.com/carbon-fiber-tan-kevlar-fabric-plain-weave-3k-50-127cm-5-5oz-186gsm/) |
+
+### Composite Resin Matrix
 
 | Resin | Cost [per ft^2] | Supplier |
 | :-- | :-: | :-: |
@@ -36,10 +43,14 @@ Building with a composite consists of adding a *resin* to a *fiber* matrix. The 
 
 ## [Forming Process](forming.md)
 
-### Post-Forming
+## Race Features
 
 - Flotation Tanks
 - Resin Coating
-- Seat
-- Handles
+- Seat (foamed)
+- Handles (yoke?)
 - Detachable Rudder
+- Jug Holders (foam)
+- Foot Bar
+- Light Block
+- Spray Cover
