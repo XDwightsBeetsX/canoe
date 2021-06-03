@@ -33,3 +33,5 @@ Carbon Fiber Car Hood
 - *[mold](https://www.youtube.com/watch?v=UgKvDw1E60E)*
 - *[infusion](https://www.youtube.com/watch?v=YWbGx_BJVvM)*
 - *[trimming](https://www.youtube.com/watch?v=P8ucNBRaBYs)*
+
+*[dude who lives on island reg canoe](https://www.robbiemallett.com/carboncanoe)*

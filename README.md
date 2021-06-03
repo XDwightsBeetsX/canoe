@@ -24,7 +24,7 @@ I want this boat to be [USCA C-1](c1.md) and [solo unlimited](solo-unlimited.md)
 
 Building with a composite consists of adding a *resin* to a *fiber* matrix. The fibers provide the tensile strength, while the hard resin provides rigidity and shape.
 
-### Composite Fiber Fabric
+### Fiber Fabric
 
 | Fiber | Tow | wt [oz] | Cost [50" x yard]| Supplier |
 | :-- | :-: | :-: | :-: | :-: |
@@ -34,12 +34,14 @@ Building with a composite consists of adding a *resin* to a *fiber* matrix. The 
 | carvlar | 3k 2x2 | 5.5 | ~$34 | [composite envisions](https://compositeenvisions.com/carvlar-carbon-fiber-black-kevlar-fabric-2x2-twill-3k-50-127cm-5-5oz-186gsm/) |
 | tan carvlar | 3k | 5.5 | $37 | [composite envisions](https://compositeenvisions.com/carbon-fiber-tan-kevlar-fabric-plain-weave-3k-50-127cm-5-5oz-186gsm/) |
 
-### Composite Resin Matrix
+### Resin Matrix
 
 | Resin | Cost [per ft^2] | Supplier |
 | :-- | :-: | :-: |
 | epoxy | | |
 | eurathane | | |
+
+## Design
 
 ## [Forming Process](forming.md)
 
