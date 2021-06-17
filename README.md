@@ -2,7 +2,7 @@
 
 I plan on constructing my own race canoe for the [Texas Water Safari (TWS)](https://www.texaswatersafari.org/)
 
-I want this boat to be [USCA C-1](c1.md) and [solo unlimited](solo-unlimited.md) compatible for use in the TWS. The *unlimited* categories have no restrictions, so I plan to make a USCA C-1 boat with a detachable rudder, which is the main difference between the two categories and offers a huge advantage.
+I want this boat to be [USCA C-1](docs/c1.md) and [solo unlimited](solo-unlimited.md) compatible for use in the TWS. The *unlimited* categories have no restrictions, so I plan to make a USCA C-1 boat with a detachable rudder, which is the main difference between the two categories and offers a huge advantage.
 
 ## Goals
 
@@ -43,7 +43,7 @@ Building with a composite consists of adding a *resin* to a *fiber* matrix. The 
 
 ## Design
 
-## [Forming Process](forming.md)
+## [Forming Process](docs/forming.md)
 
 ## Race Features
 
